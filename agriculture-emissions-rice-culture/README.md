@@ -1,4 +1,4 @@
-## 🌾 **Project Title: Greenhouse Gas Emissions in Rice Cultivation: A Comparative Analysis with a Focus on Brazil**
+## 🌾 **Greenhouse Gas Emissions in Rice Cultivation: A Comparative Analysis with a Focus on Brazil**
 
 ### | **Objective**
 
