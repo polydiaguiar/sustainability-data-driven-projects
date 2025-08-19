@@ -29,5 +29,5 @@ ___
 
 A brief overview of the analyses featured in this repository.
 
-* **[GHG Emissions in Rice Cultivation]([https://your-link-here.com](https://github.com/polydiaguiar/sustainability-data-driven-projects/blob/main/agriculture-emissions-rice-culture/README.md))**: An exploratory data analysis of greenhouse gas emissions from global rice production, identifying key trends and the highest-impact countries.
+* **[GHG Emissions in Rice Cultivation]([https://github.com/polydiaguiar/sustainability-data-driven-projects/blob/main/agriculture-emissions-rice-culture/README.md])**: An exploratory data analysis of greenhouse gas emissions from global rice production, identifying key trends and the highest-impact countries.
     * *Keywords: EDA, Data Visualization, Pandas, Power BI*
