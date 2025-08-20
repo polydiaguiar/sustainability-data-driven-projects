@@ -6,6 +6,8 @@ This project presents an in-depth exploratory data analysis (EDA) of greenhouse 
 
 The core of the analysis is a comparative study, drawing a detailed parallel between the emission trajectories of these leading nations and **Brazil (BRA)**. The goal is to benchmark Brazil's performance, understand its position in the global context, and investigate the correlation between emission trends and documented agricultural practices.
 
+co2e_100yr 
+
 ---
 #### | **Key Research Questions**
 
