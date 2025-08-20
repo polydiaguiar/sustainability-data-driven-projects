@@ -21,3 +21,26 @@ This analysis seeks to answer the following questions:
 ---
 #### | **Methodology**
 The project was conducted using exploratory data analysis (EDA) techniques to clean, process, and visualize the dataset. The quantitative findings were supplemented with qualitative research into the agricultural policies and sustainability initiatives of the selected countries to provide context to the observed trends.
+
+---
+#### | **Data Sources**
+The data used in this analysis were sourced from two primary, publicly available databases: the Food and Agriculture Organization of the United Nations (FAOSTAT) and the Climate TRACE coalition.
+
+**Agricultural Production Data:** [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)
+
+Statistics on agricultural production were obtained from the FAOSTAT database. Specifically, we utilized the "Crops and livestock products" dataset to gather time-series information on key metrics such as:
+
+* Production Quantity: The total quantity harvested of rice (e.g., in tonnes).
+* Yield: The productivity of rice per unit of land (e.g., in tonnes per hectare).
+* Area Harvested : 
+FAOSTAT serves as a comprehensive and standardized source for global agricultural data, making it ideal for cross-national and historical comparisons.
+
+**Greenhouse Gas Emissions Data:** [Climate TRACE](https://climatetrace.org/data)
+
+Greenhouse gas (GHG) emissions data were sourced from the Climate TRACE inventory. Climate TRACE provides a detailed and independently compiled inventory of global emissions, often with a high degree of granularity.
+
+For this study, the database was used to identify and quantify emissions associated with rice cultivation, an agricultural activity,
+
+Reference: Climate TRACE - Data Portal
+
+By integrating these two sources, this analysis correlates agricultural output as reported by FAOSTAT with the associated emissions as inventoried by Climate TRACE, enabling a comprehensive view of the climate impact of agricultural activities.
