@@ -9,20 +9,6 @@ The core of the analysis is a comparative study, drawing a detailed parallel bet
 co2e_100yr 
 
 ---
-#### | **Key Research Questions**
-
-This analysis seeks to answer the following questions:
-
-* **Emission Evolution:** How have GHG emissions from rice farming evolved over the years for each of the top-producing countries?
-* **Brazil's Benchmark:** How does Brazil's emission trajectory compare to the other major producers? Is it following, leading, or lagging behind global trends?
-* **Practices and Policies:** What correlations can be found between emission reduction trends and the documented agricultural policies or mitigation practices implemented in these nations?
-* **Actionable Insights:** What successful strategies from other countries could potentially be applied in Brazil to reduce its emissions footprint from rice cultivation? What lessons can be learned from countries where emissions have not decreased?
-
----
-#### | **Methodology**
-The project was conducted using exploratory data analysis (EDA) techniques to clean, process, and visualize the dataset. The quantitative findings were supplemented with qualitative research into the agricultural policies and sustainability initiatives of the selected countries to provide context to the observed trends.
-
----
 #### | **Data Sources**
 The data used in this analysis were sourced from two primary, publicly available databases: the Food and Agriculture Organization of the United Nations (FAOSTAT) and the Climate TRACE coalition.
 
@@ -44,3 +30,38 @@ For this study, the database was used to identify and quantify emissions associa
 Reference: Climate TRACE - Data Portal
 
 By integrating these two sources, this analysis correlates agricultural output as reported by FAOSTAT with the associated emissions as inventoried by Climate TRACE, enabling a comprehensive view of the climate impact of agricultural activities.
+
+---
+
+#### | **Key Research Questions**
+
+This analysis seeks to answer the following questions:
+
+* **Emission Evolution:** How have GHG emissions from rice farming evolved over the years for each of the top-producing countries?
+* **Brazil's Benchmark:** How does Brazil's emission trajectory compare to the other major producers? Is it following, leading, or lagging behind global trends?
+* **Practices and Policies:** What correlations can be found between emission reduction trends and the documented agricultural policies or mitigation practices implemented in these nations?
+* **Actionable Insights:** What successful strategies from other countries could potentially be applied in Brazil to reduce its emissions footprint from rice cultivation? What lessons can be learned from countries where emissions have not decreased?
+
+---
+#### | **Methodology**
+The project was conducted using exploratory data analysis (EDA) techniques to clean, process, and visualize the dataset. The quantitative findings were supplemented with qualitative research into the agricultural policies and sustainability initiatives of the selected countries to provide context to the observed trends.
+
+> | EDA (Exploratory Data Analysis)
+Each dataset underwent separate preprocessing: the Climate Trace data was prepared using Python, and the FAOSTAT data was processed within Power BI. Both datasets were subsequently integrated into a Power BI model for comprehensive analysis. The preprocessing steps are detailed below.
+
+> * **Greenhouse Gas Emission Data (Climate Trace)**:
+
+
+
+
+> * **Agriculture Production Data (FAOSTAT)**:
+   
+
+
+
+
+
+
+---
+
+
