@@ -57,6 +57,30 @@ Each dataset underwent separate preprocessing: the Climate Trace data was prepar
 > * **Agriculture Production Data (FAOSTAT)**:
 
 
+---
+#### | **Visualizations**
+
+div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <div style="width: 48%;">
+    <a href="https://app.powerbi.com/reportEmbed?reportId=e4da88d5-ebcf-4d68-a35d-b4250d0cb647">
+      <img src="graphs/dash_1.png" alt="Dashboard Principal" style="width: 50%; max-width: 100%; height: auto; border: 1px solid #ddd;">
+    </a>
+  </div>
+
+  <div style="width: 48%;">
+    <img src="graphs/dash_2.png" alt="Dashboard Principal" style="width: 50%; max-width: 100%; height: auto; border: 1px solid #ddd;">
+  </div>
+
+  <div style="width: 48%;">
+    <img src="graphs/dash_3.png" alt="Análise Temporal" style="width: 50%; max-width: 100%; height: auto; border: 1px solid #ddd;">
+  </div>
+
+  <div style="width: 48%;">
+    <img src="graphs/dash_4.png" alt="Análise Temporal" style="width: 50%; max-width: 100%; height: auto; border: 1px solid #ddd;">
+  </div>
+
+</div>
 
 ---
 
