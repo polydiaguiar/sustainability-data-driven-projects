@@ -80,9 +80,9 @@ Each dataset underwent separate preprocessing: the Climate Trace data was prepar
 
 ---
 
-#### | **Key Fidings**
+#### | **Key Insights**
 
->
+> 
 
    
 
