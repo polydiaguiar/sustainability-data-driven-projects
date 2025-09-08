@@ -60,7 +60,7 @@ Each dataset underwent separate preprocessing: the Climate Trace data was prepar
 ---
 #### | **Visualizations**
 
-div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
   <div style="width: 48%;">
     <a href="https://app.powerbi.com/reportEmbed?reportId=e4da88d5-ebcf-4d68-a35d-b4250d0cb647">
