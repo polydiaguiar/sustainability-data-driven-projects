@@ -73,7 +73,7 @@ Each dataset underwent separate preprocessing: the Climate Trace data was prepar
   </div>
 
   <div style="width: 48%;">
-    <img src="Agriculture Production.png" alt="Agriculture Production Element by Country" style="width: 50%; max-width: 100%; height: auto; border: 1px solid #ddd;">
+    <img src="Agriculture Production .png" alt="Agriculture Production Element by Country" style="width: 50%; max-width: 100%; height: auto; border: 1px solid #ddd;">
   </div>
 
 </div>
