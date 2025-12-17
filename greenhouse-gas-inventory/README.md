@@ -24,15 +24,27 @@ The inventory follows the **Operational Control** approach, covering 100% of the
 ## 3. Methodology & Standards
 The calculations follow the **GHG Protocol Corporate Standard** and the **Brazilian GHG Protocol Program** specifications.
 
-* **Scope 1 (Direct Emissions):** Mobile combustion (Fleet/Diesel B14), Stationary combustion (Forklifts/Natural Gas), and Fugitive emissions (HVAC/Refrigerant Gases).
+* **Scope 1 (Direct Emissions):** Mobile combustion (Fleet/Diesel B14), and Fugitive emissions (HVAC/Refrigerant Gases).
 * **Scope 2 (Indirect Emissions):** Purchased electricity from the National Grid (SIN - Sistema Interligado Nacional).
 * **Global Warming Potentials (GWP):** Based on the IPCC Fifth Assessment Report (AR5).
 
 ## 4. Key Findings (Summary)
 
-* **Total Emissions:** XX $tCO_2e$.
-* **Scope Breakdown:** Scope 1 accounts for **X%** of total emissions, driven primarily by the diesel fleet.
-* **Carbon Intensity:** X $tCO_2e$ per km driven (or per unit of revenue).
+* **Total Emissions:** 21,573 $tCO_2e$.
+* **Scope Breakdown:** Scope 1 accounts for more than **99%** of total emissions, driven primarily by the Fugitive emissions.
+
+<img width="743" height="557" alt="image" src="https://github.com/user-attachments/assets/631ce4c9-79e0-4192-9e0d-7c870a3ae5b1" />
+
+<img width="557" height="474" alt="image" src="https://github.com/user-attachments/assets/4d0c6ae5-0483-4645-86f7-6621f6cf7762" />
+
+
+## 4. Key Findings (Summary)
+
+
+
+
+
+
 
 ## 5. Tools & Data Sources
 * **Tools:** Microsoft Excel (Advanced Modeling) and ferramenta_ghg_protocol_v2025.0.1.
