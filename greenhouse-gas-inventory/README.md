@@ -26,7 +26,6 @@ The calculations follow the **GHG Protocol Corporate Standard** and the **Brazil
 
 * **Scope 1 (Direct Emissions):** Mobile combustion (Fleet/Diesel B14), Stationary combustion (Forklifts/Natural Gas), and Fugitive emissions (HVAC/Refrigerant Gases).
 * **Scope 2 (Indirect Emissions):** Purchased electricity from the National Grid (SIN - Sistema Interligado Nacional).
-* **Scope 3 (Indirect Emissions):** Waste disposal (from office activities).
 * **Global Warming Potentials (GWP):** Based on the IPCC Fifth Assessment Report (AR5).
 
 ## 4. Key Findings (Summary)
