@@ -38,7 +38,7 @@ The calculations follow the **GHG Protocol Corporate Standard** and the **Brazil
 ## 5. Tools & Data Sources
 * **Tools:** Microsoft Excel (Advanced Modeling) and ferramenta_ghg_protocol_v2025.0.1.
 * **Emission Factors:**
-**    * **Fuels:** Brazilian GHG Protocol Calculation Tool (v2024).**
-**    * **Electricity:** MCTI (Ministry of Science, Technology and Innovation) average grid factors.**
-**    * **Refrigerants:** IPCC AR5 / DEFRA.**
+    * **Fuels:** Brazilian GHG Protocol Calculation Tool (v2024).**
+    * **Electricity:** MCTI (Ministry of Science, Technology and Innovation) average grid factors.**
+    * **Refrigerants:** IPCC AR5 / DEFRA.**
 
