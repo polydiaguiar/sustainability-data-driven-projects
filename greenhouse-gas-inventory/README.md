@@ -17,7 +17,7 @@ The inventory follows the **Operational Control** approach, covering 100% of the
 
 * **Reporting Period:** January 1st, 2024 – December 31st, 2024.
 * **Organizational Boundary:**
-  *   * Headquarters (Admin): Office activities.
+      * Headquarters (Admin): Office activities.
       * Distribution Center (CD): Logistics and storage operations.
       * Logistics Fleet: 5 heavy-duty trucks owned by the company.
 
