@@ -32,5 +32,5 @@ A brief overview of the analyses featured in this repository.
 * **[GHG Emissions in Rice Cultivation](agriculture-emissions-rice-culture/README.md)**: An exploratory data analysis of greenhouse gas emissions from global rice production, identifying key trends and the highest-impact countries.
     * *Keywords: EDA, Data Visualization, Pandas, Power BI*
  
-* **[GEE Inventory](greenhouse-gas-inventory/README.md)**: Emissions Inventory for a mid-sized logistics company.
+* **[GHG Inventory](greenhouse-gas-inventory/README.md)**: Greenhouse Gas Emissions Inventory for a mid-sized logistics company.
    * *Keywords: GHG Protocol Brazil, GHG emissions*
